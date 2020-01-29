@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.google.firebase.quickstart.auth.views.ViremieCD4Activity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/colorAccent"
+        android:textSize="15dp"
+        android:text="@string/text_viremie"
+        android:theme="@style/ThemeOverlay.MyTitleText"/>
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/valoareViremieLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp">
+
+        <EditText
+            android:id="@+id/valoareViremie"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Valoare Viremie"/>
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/dataViremieLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90dp">
+
+        <EditText
+            android:id="@+id/dataViremie"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Data Viremie"/>
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/controlLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="130dp">
+
+        <EditText
+            android:id="@+id/control"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Interval Control"/>
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/dataControlLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="170dp">
+
+        <EditText
+            android:id="@+id/dataControl"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Data Control"/>
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/save_viremie_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="16dp"
+        android:src="@drawable/ic_navigation_check_24"/>
+
+
+</RelativeLayout>

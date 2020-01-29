@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "799328524461",
+    "firebase_url": "https://cercetare-94194.firebaseio.com",
+    "project_id": "cercetare-94194",
+    "storage_bucket": "cercetare-94194.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799328524461:android:90057a3bbff3f474",
+        "android_client_info": {
+          "package_name": "com.cercetare.infoschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799328524461-uie9m5cmpi2c5jm69miitcidmbspe9gp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1GutPvVdUg7If5tobE4qJGUzseBqAKBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799328524461-uie9m5cmpi2c5jm69miitcidmbspe9gp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

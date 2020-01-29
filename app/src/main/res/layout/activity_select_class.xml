@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cercetare.infoschool.ClassActivity"
+    android:background="@drawable/background">
+
+
+    <LinearLayout
+        android:layout_width="380dp"
+        android:layout_height="510dp"
+        android:orientation="vertical"
+        tools:ignore="MissingConstraints">
+
+        <LinearLayout
+            android:layout_width="330dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="@dimen/browser_actions_context_menu_min_padding"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginStart="@dimen/activity_horizontal_margin">
+
+            <TextView
+                android:id="@+id/select_class"
+                android:layout_width="313dp"
+                android:layout_height="27dp"
+                android:text="@string/selecteaza_clasa_care_te_intereseaza"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                tools:layout_editor_absoluteX="41dp"
+                tools:layout_editor_absoluteY="40dp"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="329dp"
+            android:layout_height="300dp"
+            android:orientation="vertical"
+            tools:layout_editor_absoluteX="151dp"
+            tools:layout_editor_absoluteY="28dp"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/five_class_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/clasa_v"
+                android:textColor="#06470A"
+                android:textSize="30sp"
+                android:background="@drawable/buttonshape"
+                android:shadowColor="#279400"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="128dp"
+                android:layout_marginBottom="@dimen/browser_actions_context_menu_min_padding"/>
+
+            <Button
+                android:id="@+id/six_class_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/clasa_vi"
+                android:textColor="#06470A"
+                android:textSize="30sp"
+                android:background="@drawable/buttonshape"
+                android:shadowColor="#279400"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="211dp"
+                android:layout_marginBottom="@dimen/browser_actions_context_menu_min_padding"/>
+
+            <Button
+                android:id="@+id/seven_class_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/clasa_vii"
+                android:textColor="#06470A"
+                android:textSize="30sp"
+                android:background="@drawable/buttonshape"
+                android:shadowColor="#279400"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="292dp"
+                android:layout_marginBottom="@dimen/browser_actions_context_menu_min_padding"/>
+
+            <Button
+                android:id="@+id/eight_class_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/clasa_viii"
+                android:textColor="#06470A"
+                android:textSize="30sp"
+                android:background="@drawable/buttonshape"
+                android:shadowColor="#279400"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="5"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="382dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/navigation"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="0dp"
+        android:layout_marginStart="0dp"
+        android:background="?android:attr/windowBackground"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:menu="@menu/navigation" />
+</android.support.constraint.ConstraintLayout>

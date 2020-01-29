@@ -1,0 +1,1143 @@
+{
+  "classes":[
+    {
+      "name":"biologie",
+      "values":[
+        {
+          "id":5,
+          "value":{
+            "semester":[
+              {
+                "id":1,
+                "value":"All from 4 grade"
+              }
+            ],
+            "weeks":[
+              {
+                "id":1,
+                "sem":1,
+                "startDate":"2018-09-09",
+                "endDate":"2018-09-16",
+                "value":"Recapitulare"
+              },
+              {
+                "id":2,
+                "sem":1,
+                "startDate":"2018-09-16",
+                "endDate":"2018-09-23",
+                "value":"Evaluare inițială"
+              },
+              {
+                "id":3,
+                "sem":1,
+                "startDate":"2018-09-23",
+                "endDate":"2018-09-30",
+                "value":"Laboratorul de biologie"
+              },
+              {
+                "id":4,
+                "sem":1,
+                "startDate":"2018-09-30",
+                "endDate":"2018-10-07",
+                "value":"Metode de investigare a mediului"
+              },
+              {
+                "id":5,
+                "sem":1,
+                "startDate":"2018-10-08",
+                "endDate":"2018-10-15",
+                "main":"Ecosisteme terestre artificiale",
+                "value":"Ecosistemul"
+              },
+              {
+                "id":6,
+                "sem":1,
+                "startDate":"2018-10-15",
+                "endDate":"2018-10-22",
+                "main":"Ecosisteme terestre artificiale",
+                "value":"Parcul – caracteristici generale / Grădina și livada"
+              },
+              {
+                "id":7,
+                "sem":1,
+                "startDate":"2018-10-22",
+                "endDate":"2018-10-29",
+                "main":"Ecosisteme terestre artificiale",
+                "value":"Parcul – relații între viețuitoare /Grădina și livada"
+              },
+              {
+                "id":8,
+                "sem":1,
+                "startDate":"2018-10-29",
+                "endDate":"2018-11-05",
+                "main":"Ecosisteme terestre naturale",
+                "value":"Pajiștea"
+              },
+              {
+                "id":9,
+                "sem":1,
+                "startDate":"2018-11-05",
+                "endDate":"2018-11-12",
+                "main":"Ecosisteme terestre naturale",
+                "value":"Pădurea – caracteristici generale"
+              },
+              {
+                "id":10,
+                "sem":1,
+                "startDate":"2018-11-12",
+                "endDate":"2018-11-19",
+                "main":"Ecosisteme terestre naturale",
+                "value":"Pădurea – relații între viețuitoare"
+              },
+              {
+                "id":11,
+                "sem":1,
+                "startDate":"2018-11-19",
+                "endDate":"2018-11-26",
+                "main":"Ecosisteme terestre naturale",
+                "value":"Peștera"
+              },
+              {
+                "id":12,
+                "sem":1,
+                "startDate":"2018-11-26",
+                "endDate":"2018-12-03",
+                "main":"Ecosisteme terestre naturale",
+                "value":"Tundra. Savana. Deșertul"
+              },
+              {
+                "id":13,
+                "sem":1,
+                "startDate":"2018-12-03",
+                "endDate":"2018-12-10",
+                "main":"Ecosisteme terestre naturale",
+                "value":"Recapitulare/Test"
+              },
+              {
+                "id":14,
+                "sem":1,
+                "startDate":"2018-12-10",
+                "endDate":"2018-12-17",
+                "main":"Ecosisteme acvatice",
+                "value":"Lacul și balta"
+              },
+              {
+                "id":15,
+                "sem":1,
+                "startDate":"2018-12-17",
+                "endDate":"2018-12-24",
+                "main":"Ecosisteme acvatice",
+                "value":"Râul, Dunărea și Delta Dunării"
+              },
+              {
+                "id":16,
+                "sem":1,
+                "startDate":"2019-01-14",
+                "endDate":"2019-01-21",
+                "main":"Ecosisteme acvatice",
+                "value":"Marea Neagră / Oceanele"
+              },
+              {
+                "id":17,
+                "sem":1,
+                "startDate":"2019-01-21",
+                "endDate":"2019-01-28",
+                "main":"Ecosisteme acvatice",
+                "value":"Recapitulare"
+              },
+              {
+                "id":18,
+                "sem":1,
+                "startDate":"2019-01-28",
+                "endDate":"2019-02-03",
+                "main":"Recapitulare",
+                "value":"Evaluare semestrială"
+              },
+              {
+                "id":1,
+                "sem":2,
+                "startDate":"2019-02-10",
+                "endDate":"2019-02-17",
+                "main":"Grupe de viețuitoare",
+                "value":"Bacterii. Protiste. Ciuperci"
+              },
+              {
+                "id":2,
+                "sem":2,
+                "startDate":"2019-02-17",
+                "endDate":"2019-02-24",
+                "main":"Grupe de viețuitoare",
+                "value":"Mușchi. Ferigi"
+              },
+              {
+                "id":3,
+                "sem":2,
+                "startDate":"2019-02-24",
+                "endDate":"2019-03-03",
+                "main":"Grupe de viețuitoare",
+                "value":"Gimnosperme. Angiosperme"
+              },
+              {
+                "id":4,
+                "sem":2,
+                "startDate":"2019-03-04",
+                "endDate":"2019-03-11",
+                "main":"Grupe de viețuitoare",
+                "value":"Nevertebrate - Spongieri. Celenterate"
+              },
+              {
+                "id":5,
+                "sem":2,
+                "startDate":"2019-03-11",
+                "endDate":"2019-03-18",
+                "main":"Grupe de viețuitoare",
+                "value":"Nevertebrate - Viermi"
+              },
+              {
+                "id":6,
+                "sem":2,
+                "startDate":"2019-03-18",
+                "endDate":"2019-03-25",
+                "main":"Grupe de viețuitoare",
+                "value":"Nevertebrate - Moluște"
+              },
+              {
+                "id":7,
+                "sem":2,
+                "startDate":"2019-03-25",
+                "endDate":"2019-04-01",
+                "main":"Grupe de viețuitoare",
+                "value":"Nevertebrate - Atrtopode"
+              },
+              {
+                "id":8,
+                "sem":2,
+                "startDate":"2019-04-01",
+                "endDate":"2019-04-08",
+                "main":"Grupe de viețuitoare",
+                "value":"Pești. Amfibieni. Reptile"
+              },
+              {
+                "id":9,
+                "sem":2,
+                "startDate":"2019-04-08",
+                "endDate":"2019-04-15",
+                "main":"Grupe de viețuitoare",
+                "value":"Păsări"
+              },
+              {
+                "id":10,
+                "sem":2,
+                "startDate":"2019-04-15",
+                "endDate":"2019-04-22",
+                "main":"Grupe de viețuitoare",
+                "value":"Mamifere"
+              },
+              {
+                "id":11,
+                "sem":2,
+                "startDate":"2019-05-06",
+                "endDate":"2019-05-13",
+                "main":"Grupe de viețuitoare",
+                "value":"Recapitulare"
+              },
+              {
+                "id":12,
+                "sem":2,
+                "startDate":"2019-05-13",
+                "endDate":"2019-05-20",
+                "main":"",
+                "value":"Rolul viețuitoarelor în natură și în viața omului"
+              },
+              {
+                "id":13,
+                "sem":2,
+                "startDate":"2019-05-20",
+                "endDate":"2019-05-27",
+                "main":"",
+                "value":"Influența omului asupra mediului înconjurător"
+              },
+              {
+                "id":14,
+                "sem":2,
+                "startDate":"2019-05-27",
+                "endDate":"2019-06-03",
+                "main":"",
+                "value":"Prevenirea și combaterea infectării/infestării cu paraziți "
+              },
+              {
+                "id":15,
+                "sem":2,
+                "startDate":"2019-06-03",
+                "endDate":"2019-06-10",
+                "main":"",
+                "value":"Recapitulare"
+              },
+              {
+                "id":16,
+                "sem":2,
+                "startDate":"2019-06-10",
+                "endDate":"2019-06-15",
+                "main":"",
+                "value":"Recapitulare finală"
+              }
+            ]
+          }
+        },
+        {
+          "id":6,
+          "value":{
+            "semester":[
+              {
+                "id":1,
+                "value":"All from 5 grade"
+              }
+            ],
+            "weeks":[
+              {
+                "id":1,
+                "sem":1,
+                "startDate":"2018-09-10",
+                "endDate":"2018-09-17",
+                "main":"Noţiuni introductive",
+                "value":"Lecţie recapitulativă-reactualizarea și sitematizarea noțiunilr învățate pe parcursul clasei a V-a"
+              },
+              {
+                "id":2,
+                "sem":1,
+                "startDate":"2018-09-17",
+                "endDate":"2018-09-24",
+                "main":"Noţiuni introductive",
+                "value":"Test iniţial de verificare a cunoştinţelor de specialitate. Medii de viaţă. Diversitatea lumii animale."
+              },
+              {
+                "id":3,
+                "sem":1,
+                "startDate":"2018-09-24",
+                "endDate":"2018-10-01",
+                "main":"Organismul – un tot unitar",
+                "value":"Caracteristici şi alcătuire"
+              },
+              {
+                "id":4,
+                "sem":1,
+                "startDate":"2018-10-01",
+                "endDate":"2018-10-08",
+                "main":"Organismul – un tot unitar",
+                "value":"Organismul unei plante superioare - Organe vegetale"
+              },
+              {
+                "id":5,
+                "sem":1,
+                "startDate":"2018-10-08",
+                "endDate":"2018-10-15",
+                "main":"Organismul – un tot unitar",
+                "value":"Organismul unei plante superioare - Ţesuturi vegetale"
+              },
+              {
+                "id":6,
+                "sem":1,
+                "startDate":"2018-10-15",
+                "endDate":"2018-10-22",
+                "main":"Organismul – un tot unitar",
+                "value":"Organismul unei plante superioare - Celula vegetală"
+              },
+              {
+                "id":7,
+                "sem":1,
+                "startDate":"2018-10-22",
+                "endDate":"2018-10-29",
+                "main":"Organismul – un tot unitar",
+                "value":"Organismul unui mamifer şi al omului - Sisteme de organe şi organe. Ţesuturi animale"
+              },
+              {
+                "id":8,
+                "sem":1,
+                "startDate":"2018-10-29",
+                "endDate":"2018-11-05",
+                "main":"Organismul – un tot unitar",
+                "value":"Organismul unui mamifer şi al omului - Celula animală"
+              },
+              {
+                "id":9,
+                "sem":1,
+                "startDate":"2018-11-05",
+                "endDate":"2018-11-12",
+                "main":"Organismul – un tot unitar",
+                "value":"Organismul unui mamifer şi al omului - Recapitulare – Evaluare"
+              },
+              {
+                "id":10,
+                "sem":1,
+                "startDate":"2018-11-12",
+                "endDate":"2018-11-19",
+                "main":"Funcții de nutriție în lumea vie",
+                "value":"Hrănirea la plante - Frunza – structură externă şi internă, rolul cloroplastelor şi al stomatelor"
+              },
+              {
+                "id":11,
+                "sem":1,
+                "startDate":"2018-11-19",
+                "endDate":"2018-11-26",
+                "main":"Funcții de nutriție în lumea vie",
+                "value":"Hrănirea la plante - Fotosinteza – etape, importanţa ei în natură. Influenţa factorilor de mediu asupra fotosintezei"
+              },
+              {
+                "id":12,
+                "sem":1,
+                "startDate":"2018-11-26",
+                "endDate":"2018-12-03",
+                "main":"Funcții de nutriție în lumea vie",
+                "value":"Hrănirea la animale - Sistemul digestiv şi digestia la om"
+              },
+              {
+                "id":13,
+                "sem":1,
+                "startDate":"2018-12-03",
+                "endDate":"2018-12-10",
+                "main":"Funcții de nutriție în lumea vie",
+                "value":"Hrănirea la animale - Adaptări ale digestiei şi organelor digestive la diferite vertebrate în funcţie de regimul de hrană (erbivore, carnivore, omnivore – dentiţie, stomac, intestin subţire)"
+              },
+              {
+                "id":14,
+                "sem":1,
+                "startDate":"2018-12-10",
+                "endDate":"2018-12-17",
+                "main":"Funcții de nutriție în lumea vie",
+                "value":"Alte tipuri de hrănire în lumea vie (saprofită, parazită, plantele carnivore). Recapitulare -evaluare hrănirea la plante și hrănirea la animale"
+              },
+              {
+                "id":15,
+                "sem":1,
+                "startDate":"2018-12-17",
+                "endDate":"2018-12-24",
+                "main":"Funcții de nutriție în lumea vie",
+                "value":"Respiraţia – proces prin care se obţine energie (tipuri, rol). Respiraţia la plante"
+              },
+              {
+                "id":16,
+                "sem":1,
+                "startDate":"2019-01-14",
+                "endDate":"2019-01-21",
+                "main":"Funcții de nutriție în lumea vie",
+                "value":"Sistemul respirator şi respiraţia la om"
+              },
+              {
+                "id":17,
+                "sem":1,
+                "startDate":"2019-01-21",
+                "endDate":"2019-01-28",
+                "main":"Funcții de nutriție în lumea vie",
+                "value":"Respiraţia în medii de viaţă diferite (traheală, cutanată, branhială şi pulmonară)"
+              },
+              {
+                "id":18,
+                "sem":1,
+                "startDate":"2019-01-28",
+                "endDate":"2019-02-03",
+                "main":"Funcții de nutriție în lumea vie",
+                "value":"Recapitulare - Evaluare"
+              },
+              {
+                "id":1,
+                "sem":2,
+                "startDate":"2019-02-11",
+                "endDate":"2019-02-18",
+                "main":"Funcții de nutriție în lumea vie",
+                "value":"Circulaţia la plante (absorbţia şi circulaţia sevei brute şi a sevei elaborate)"
+              },
+              {
+                "id":2,
+                "sem":2,
+                "startDate":"2019-02-18",
+                "endDate":"2019-02-25",
+                "main":"Funcții de nutriție în lumea vie",
+                "value":"Rădăcina şi tulpina – rolul perişorilor absorbanţi şi al vaselor conducătoare, influenţa factorilor de mediu "
+              },
+              {
+                "id":3,
+                "sem":2,
+                "startDate":"2019-02-25",
+                "endDate":"2019-03-04",
+                "main":"Funcții de nutriție în lumea vie",
+                "value":"Circulaţia la animale - Mediul intern şi sângele – componente şi rolul lor"
+              },
+              {
+                "id":4,
+                "sem":2,
+                "startDate":"2019-03-04",
+                "endDate":"2019-03-11",
+                "main":"Funcții de nutriție în lumea vie",
+                "value":"Grupele sangvine şi importanţa vaccinării. Sistemul circulator şi circulaţia la om"
+              },
+              {
+                "id":5,
+                "sem":2,
+                "startDate":"2019-03-11",
+                "endDate":"2019-03-18",
+                "main":"Funcții de nutriție în lumea vie",
+                "value":"Particularităţi ale circulaţiei la vertebrate (inima şi tipuri de circulaţie)"
+              },
+              {
+                "id":6,
+                "sem":2,
+                "startDate":"2019-03-18",
+                "endDate":"2019-03-25",
+                "main":"Funcții de nutriție în lumea vie",
+                "value":"Animale cu temperatura corpului variabilă şi constantă"
+              },
+              {
+                "id":7,
+                "sem":2,
+                "startDate":"2019-03-25",
+                "endDate":"2019-04-01",
+                "main":"Funcții de nutriție în lumea vie",
+                "value":"Recapitulare - Evaluare"
+              },
+              {
+                "id":8,
+                "sem":2,
+                "startDate":"2019-04-01",
+                "endDate":"2019-04-08",
+                "main":"Funcții de nutriție în lumea vie",
+                "value":"Excreţia la plante (transpiraţia, rolul stomatelor, influenţa factorilor de mediu)"
+              },
+              {
+                "id":9,
+                "sem":2,
+                "startDate":"2019-04-08",
+                "endDate":"2019-04-15",
+                "main":"Funcții de nutriție în lumea vie",
+                "value":"Sistemul excretor şi excreţia la om"
+              },
+              {
+                "id":10,
+                "sem":2,
+                "startDate":"2019-04-15",
+                "endDate":"2019-04-22",
+                "main":"",
+                "value":"Școala Altfel- Să știi mai multe. Să fii mai bun!"
+              },
+              {
+                "id":11,
+                "sem":2,
+                "startDate":"2019-05-06",
+                "endDate":"2019-05-13",
+
+                "main":"Funcții de nutriție în lumea vie",
+                "value":"daptări ale excreţiei la medii de viaţă diferite(terestru, acvatic dulcicol, acvatic marin)"
+              },
+              {
+                "id":12,
+                "sem":2,
+                "startDate":"2019-05-13",
+                "endDate":"2019-05-20",
+
+                "main":"Relații între funcțiile de nutriție",
+                "value":"Relaţii între funcţiile de nutriţie"
+              },
+              {
+                "id":13,
+                "sem":2,
+                "startDate":"2019-05-20",
+                "endDate":"2019-05-27",
+
+                "main":"Elemente de igienă și prevenire a îmbolnăvirilor",
+                "value":"Starea de sănătate, agenții patogeni și factorii poluanți."
+              },
+              {
+                "id":14,
+                "sem":2,
+                "startDate":"2019-05-27",
+                "endDate":"2019-06-03",
+
+                "main":"Elemente de igienă și prevenire a îmbolnăvirilor",
+                "value":"Reguli de igienă personală pentru păstrarea sănătății."
+              },
+              {
+                "id":15,
+                "sem":2,
+                "startDate":"2019-06-03",
+                "endDate":"2019-06-10",
+
+                "main":"Elemente de igienă și prevenire a îmbolnăvirilor",
+                "value":"Comportamente cu risc asupra stării de sănătate. Comportamente responsabile în situații de urgență"
+              },
+              {
+                "id":16,
+                "sem":2,
+                "startDate":"2019-06-10",
+                "endDate":"2019-06-15",
+
+                "main":"Recapitulare",
+                "value":"Recapitularea și sistematizarea cunoștințelor. Recapitulare finală - Evaluare finală"
+              }
+            ]
+          }
+        },
+        {
+          "id":7,
+          "value":{
+            "semester":[
+              {
+                "id":1,
+                "value":"All from 6 grade"
+              }
+            ],
+            "weeks":[
+              {
+                "id":1,
+                "sem":1,
+                "startDate":"2018-09-10",
+                "endDate":"2018-09-17",
+                "main":"Recapitulare + Noţiuni introductive",
+                "value":"Obiectul anatomiei, fiziologiei şi igienei umane De la celulă la organism-lucrări practice (Observaţii microscopice: celule, ţesuturi)"
+              },
+              {
+                "id":2,
+                "sem":1,
+                "startDate":"2018-09-17",
+                "endDate":"2018-09-24",
+                "main":"Noţiuni introductive",
+                "value":"Elemente generale de topografie a organelor . Funcţiile organismului uman şi baza lor anatomică"
+              },
+              {
+                "id":3,
+                "sem":1,
+                "startDate":"2018-09-24",
+                "endDate":"2018-10-01",
+                "main":"Funcţiile organismului uman, baza lor anatomică şi noţiuni elementare de igienă Funcţiile de relaţie Sensibilitatea - Sistemul nervos",
+                "value":"Componentele sistemului nervos. Neuronul: alcătuire generală, proprietăţi."
+              },
+              {
+                "id":4,
+                "sem":1,
+                "startDate":"2018-10-01",
+                "endDate":"2018-10-08",
+                "main":"Funcţiile organismului uman, baza lor anatomică şi noţiuni elementare de igienă Funcţiile de relaţie Sensibilitatea - Sistemul nervos.",
+                "value":"Măduva spinării – structură. Encefalul : structură"
+              },
+              {
+                "id":5,
+                "sem":1,
+                "startDate":"2018-10-08",
+                "endDate":"2018-10-15",
+                "main":"Funcţiile organismului uman, baza lor anatomică şi noţiuni elementare de igienă Funcţiile de relaţie Sensibilitatea - Sistemul nervos",
+                "value":"Sistemul nervos periferic : nervii şi ganglionii nervoşi. Funcţiile sistemului nervos: reflexul şi baza lui anatomică (arcul reflex) lucrare practică (Punerea în evidenţă a reflexelor medulare)"
+              },
+              {
+                "id":6,
+                "sem":1,
+                "startDate":"2018-10-15",
+                "endDate":"2018-10-22",
+                "main":"Funcţiile organismului uman, baza lor anatomică şi noţiuni elementare de igienă Funcţiile de relaţie Sensibilitatea - Sistemul nervos",
+                "value":"Reflexe necondiţionate/condiţi onate; Sisteme de semnalizare; Starea de somn/ veghe. Noţiuni generale de igienă Afecţiuni fizio - patologice ale sistemului nervos"
+              },
+              {
+                "id":7,
+                "sem":1,
+                "startDate":"2018-10-22",
+                "endDate":"2018-10-29",
+                "main":"Funcţiile organismului uman, baza lor anatomică şi noţiuni elementare de igienă Funcţiile de relaţie Sensibilitatea - Sistemul nervos",
+                "value":"Noţiuni generale de igienă Afecţiuni fizio - patologice ale sistemului nervos. Realizarea temelor pentru acasă și analizarea lor. Recapitularea."
+              },
+              {
+                "id":8,
+                "sem":1,
+                "startDate":"2018-10-29",
+                "endDate":"2018-11-05",
+                "main":"Organele de simţ",
+                "value":"Ochiul: anatomie. Ochiul: fiziologie: formarea imaginii, acomodarea, vederea cromatică"
+              },
+              {
+                "id":9,
+                "sem":1,
+                "startDate":"2018-11-05",
+                "endDate":"2018-11-12",
+                "main":"Organele de simţ",
+                "value":"Ochiul: defecte ale vederii şi stări patologice ale ochiului. Urechea: anatomie"
+              },
+              {
+                "id":10,
+                "sem":1,
+                "startDate":"2018-11-12",
+                "endDate":"2018-11-19",
+                "main":"Organele de simţ",
+                "value":"Urechea: fiziologie : funcţia de auz şi de echilibru."
+              },
+              {
+                "id":11,
+                "sem":1,
+                "startDate":"2018-11-19",
+                "endDate":"2018-11-26",
+                "main":"Organele de simţ",
+                "value":"Igiena urechii. Limba: anatomie şi fiziologie Rolul limbii"
+              },
+              {
+                "id":12,
+                "sem":1,
+                "startDate":"2018-11-26",
+                "endDate":"2018-12-03",
+                "main":"Organele de simţ",
+                "value":"Nasul: anatomie şi fiziologie Rolul nasului. "
+              },
+              {
+                "id":13,
+                "sem":1,
+                "startDate":"2018-12-03",
+                "endDate":"2018-12-10",
+                "main":"Organele de simţ",
+                "value":"Pielea: anatomie şi fiziologie"
+              },
+              {
+                "id":14,
+                "sem":1,
+                "startDate":"2018-12-10",
+                "endDate":"2018-12-17",
+                "main":"Organele de simţ",
+                "value":"Noţiuni de igienă-Primul ajutor în caz de răniri, arsuri şi degerături (lucrări practice)"
+              },
+              {
+                "id":15,
+                "sem":1,
+                "startDate":"2018-12-17",
+                "endDate":"2018-12-24",
+                "main":"Organele de simţ",
+                "value":"Recapitulare unitate învăţare Activităţi practice de sinteză (propuse de elevi pe baza portofoliilor prezentate/proiectelor tematice) Evaluare unitate învăţare"
+              },
+              {
+                "id":16,
+                "sem":1,
+                "startDate":"2019-01-14",
+                "endDate":"2019-01-21",
+                "main":"Glandele endocrine.",
+                "value":"Caracteristicile glandelor endocrine. Principalele glande endocrine şi disfuncţiile lor (hipofiza, tiroida, suprarenalele, timus, glande mixte)"
+              },
+              {
+                "id":17,
+                "sem":1,
+                "startDate":"2019-01-21",
+                "endDate":"2019-01-28",
+                "main":"Sistemul locomotor",
+                "value":"Alcătuirea sistemului osos: scheletul Alcătuirea oaselor, tipuri de articulaţii (după mobilitate şi exemple), compoziţia chimică a oaselor"
+              },
+              {
+                "id":18,
+                "sem":1,
+                "startDate":"2019-01-28",
+                "endDate":"2019-02-03",
+                "main":"Recapitulare semestrială",
+                "value":"Fişe de recapitulare Portofoliul Proiecte de grup Machete Test sumativ"
+              },
+              {
+                "id":1,
+                "sem":2,
+                "startDate":"2019-02-11",
+                "endDate":"2019-02-18",
+                "main":"Sistemul locomotor",
+                "value":"Principalele grupe de muşchi scheletici, proprietăţile fiziologice ale muşchilor. Fiziologia sistemului locomotor"
+              },
+              {
+                "id":2,
+                "sem":2,
+                "startDate":"2019-02-18",
+                "endDate":"2019-02-25",
+                "main":"Sistemul locomotor",
+                "value":"Elemente generale de igienă.-primul ajutor în caz de entorse, luxaţii, fracturi. Evaluare unitate învăţare"
+              },
+              {
+                "id":3,
+                "sem":2,
+                "startDate":"2019-02-25",
+                "endDate":"2019-03-04",
+                "main":"Funcţiile de nutriţie Digestiasistemul digestiv",
+                "value":"Alimentele şi importanţa lor pentru organism. Sistemul digestiv: adaptate anatomie (tubul digestiv)."
+              },
+              {
+                "id":4,
+                "sem":2,
+                "startDate":"2019-03-04",
+                "endDate":"2019-03-11",
+                "main":"Funcţiile de nutriţie Digestiasistemul digestiv",
+                "value":"Glandele anexe: gl. salivare, ficatul şi pancreasul. Digestia bucală şi deglutiţia."
+              },
+              {
+                "id":5,
+                "sem":2,
+                "startDate":"2019-03-11",
+                "endDate":"2019-03-18",
+                "main":"Funcţiile de nutriţie Digestiasistemul digestiv",
+                "value":"Digestia gastrică şi intestinală. Absorbţia intestinală, drumul produşilor finali."
+              },
+              {
+                "id":6,
+                "sem":2,
+                "startDate":"2019-03-18",
+                "endDate":"2019-03-25",
+                "main":"Funcţiile de nutriţie Digestiasistemul digestiv",
+                "value":"Fiziologia intestinului gros. Elementele generale de igienă ale sistemului digestiv"
+              },
+              {
+                "id":7,
+                "sem":2,
+                "startDate":"2019-03-25",
+                "endDate":"2019-04-01",
+                "main":"Funcţiile de nutriţie Digestiasistemul digestiv + Circulaţiasistemul circulator",
+                "value":"Recapitulare unitate învăţare. Evaluare unitate învăţare. + Mediul intern: sânge, lichid interstiţial, limfă."
+              },
+              {
+                "id":8,
+                "sem":2,
+                "startDate":"2019-04-01",
+                "endDate":"2019-04-08",
+                "main":"Circulaţiasistemul circulator",
+                "value":"Alcătuirea sistemului circulator: inima; vasele de sânge: arterele, capilarele, venele."
+              },
+              {
+                "id":9,
+                "sem":2,
+                "startDate":"2019-04-08",
+                "endDate":"2019-04-15",
+                "main":"Circulaţiasistemul circulator",
+                "value":"Fiziologia sistemului circulator: activitatea inimii, circulaţia sistemică şi circulaţia pulmonară. Elemente generale de igienă ale sistemului circulator. Evaluare unitate învăţare"
+              },
+              {
+                "id":10,
+                "sem":2,
+                "startDate":"2019-04-15",
+                "endDate":"2019-04-22",
+                "main":"Respiraţiasistemul respirator",
+                "value":"Alcătuirea sistemului respirator. Fiziologia sistemului respirator."
+              },
+              {
+                "id":11,
+                "sem":2,
+                "startDate":"2019-05-06",
+                "endDate":"2019-05-13",
+                "main":"Respiraţiasistemul respirator",
+                "value":"Elemente generale de igienă. Recapitulare unitate învăţare"
+              },
+              {
+                "id":12,
+                "sem":2,
+                "startDate":"2019-05-13",
+                "endDate":"2019-05-20",
+                "main":"Excreţiasistemul excretor",
+                "value":"Alcătuirea generală a sistemului excretor. Fiziologia sistemului excretor Elemente generale de igienă. Recapitulare unitate învăţare"
+              },
+              {
+                "id":13,
+                "sem":2,
+                "startDate":"2019-05-20",
+                "endDate":"2019-05-27",
+                "main":"Elemente generale de metabolism.",
+                "value":"Metabolismul. Termoreglarea."
+              },
+              {
+                "id":14,
+                "sem":2,
+                "startDate":"2019-05-27",
+                "endDate":"2019-06-03",
+                "main":"Funcţia de reproducere Reproducerea -sistemul reproducător",
+                "value":"Celule sexuale, fecundaţie, dezvoltare intrauterină, naşterea Maturitate fiziologică (caractere sexuale)."
+              },
+              {
+                "id":15,
+                "sem":2,
+                "startDate":"2019-06-03",
+                "endDate":"2019-06-10",
+                "main":"Funcţia de reproducere Reproducerea -sistemul reproducător",
+                "value":"Sexualitatea şi starea de sănătate. Recapitulare unitate învăţare (contracepţie, ITS, elemente de igienă)."
+              },
+              {
+                "id":16,
+                "sem":2,
+                "startDate":"2019-06-10",
+                "endDate":"2019-06-15",
+                "main":"Recapitulare finală",
+                "value":"Fişe de recapitulare. Portofoliul. Test sumativ"
+              }
+            ]
+          }
+        },
+        {
+          "id":8,
+          "value":{
+            "semester":[
+              {
+                "id":1,
+                "value":"All from 7 grade"
+              }
+            ],
+            "weeks":[
+              {
+                "id":1,
+                "sem":1,
+                "startDate":"2018-09-10",
+                "endDate":"2018-09-17",
+                "main":"Organizarea materiei vii",
+                "value":"Prezentarea manualului"
+              },
+              {
+                "id":2,
+                "sem":1,
+                "startDate":"2018-09-17",
+                "endDate":"2018-09-24",
+                " main":"Organizarea materiei vii",
+                "value":"Noțiuni introductive în ecologie"
+              },
+              {
+                "id":3,
+                "sem":1,
+                "startDate":"2018-09-24",
+                "endDate":"2018-10-01",
+                " main":"Organizarea materiei vii",
+                "value":"Niveluri de organizare a materiei vii: individ, populație, specie"
+              },
+              {
+                "id":4,
+                "sem":1,
+                "startDate":"2018-10-01",
+                "endDate":"2018-10-08",
+                " main":"Organizarea materiei vii",
+                "value":"Biotopul și biocenoza. Ecosistemul"
+              },
+              {
+                "id":5,
+                "sem":1,
+                "startDate":"2018-10-08",
+                "endDate":"2018-10-15",
+                " main":"Organizarea materiei vii",
+                "value":"Ecosistemul unei păduri"
+              },
+              {
+                "id":6,
+                "sem":1,
+                "startDate":"2018-10-15",
+                "endDate":"2018-10-22",
+                " main":"Organizarea materiei vii",
+                "value":"Ecosistemul unei pajiști"
+              },
+              {
+                "id":7,
+                "sem":1,
+                "startDate":"2018-10-22",
+                "endDate":"2018-10-29",
+                " main":"Organizarea materiei vii",
+                "value":"Ecosistemul unei peșteri"
+              },
+              {
+                "id":8,
+                "sem":1,
+                "startDate":"2018-10-29",
+                "endDate":"2018-11-05",
+                " main":"Organizarea materiei vii",
+                "value":"Ecosistemul unei ape curgătoare"
+              },
+              {
+                "id":9,
+                "sem":1,
+                "startDate":"2018-11-05",
+                "endDate":"2018-11-12",
+                " main":"Organizarea materiei vii",
+                "value":"Ecosistemul unei ape stătătoare"
+              },
+              {
+                "id":10,
+                "sem":1,
+                "startDate":"2018-11-12",
+                "endDate":"2018-11-19",
+                " main":"Organizarea materiei vii",
+                "value":"Marea Neagră și Delta Dunării"
+              },
+              {
+                "id":11,
+                "sem":1,
+                "startDate":"2018-11-19",
+                "endDate":"2018-11-26",
+                " main":"Organizarea materiei vii",
+                "value":"Evaluare"
+              },
+              {
+                "id":12,
+                "sem":1,
+                "startDate":"2018-11-26",
+                "endDate":"2018-12-03",
+                "main":"Factori determinanți în răspândirea și adaptarea la mediu a organismelor vii",
+                "value":"Factori abiotici: Interacţiunea biotop - biocenoză"
+              },
+              {
+                "id":13,
+                "sem":1,
+                "startDate":"2018-12-03",
+                "endDate":"2018-12-10",
+                "main":"Factori determinanți în răspândirea și adaptarea la mediu a organismelor vii",
+                "value":"Factori abiotici: Interacţiunea biotop - biocenoză"
+              },
+              {
+                "id":14,
+                "sem":1,
+                "startDate":"2018-12-10",
+                "endDate":"2018-12-17",
+                "main":"Factori determinanți în răspândirea și adaptarea la mediu a organismelor vii",
+                "value":"Bioritmuri circadiene şi sezoniere"
+              },
+              {
+                "id":15,
+                "sem":1,
+                "startDate":"2018-12-17",
+                "endDate":"2018-12-24",
+                "main":"Factori determinanți în răspândirea și adaptarea la mediu a organismelor vii",
+                "value":"Factorii biotici: Relațiile interspecifice: concurență, cooperare, exploatare"
+              },
+              {
+                "id":16,
+                "sem":1,
+                "startDate":"2019-01-14",
+                "endDate":"2019-01-21",
+                "main":"Factori determinanți în răspândirea și adaptarea la mediu a organismelor vii",
+                "value":"Relațiile intraspecifice - comunicarea și viața socială la animale"
+              },
+              {
+                "id":17,
+                "sem":1,
+                "startDate":"2019-01-21",
+                "endDate":"2019-01-28",
+                "main":"Factori determinanți în răspândirea și adaptarea la mediu a organismelor vii",
+                "value":"Evaluare"
+              },
+              {
+                "id":18,
+                "sem":1,
+                "startDate":"2019-01-28",
+                "endDate":"2019-02-03",
+                "main":"Recapitulare semestrială",
+                "value":"Fișe de recapitulare, portofolii, proiecte de grup"
+              },
+              {
+                "id":1,
+                "sem":2,
+                "startDate":"2019-02-11",
+                "endDate":"2019-02-18",
+                "main":"Relații trofice în ecosisteme",
+                "value":"Relații trofice: categorii trofice în ecosistem: producători, consumatori, descompunători"
+              },
+              {
+                "id":2,
+                "sem":2,
+                "startDate":"2019-02-18",
+                "endDate":"2019-02-25",
+                "main":"Relații trofice în ecosisteme",
+                "value":"Lanțuri și rețele trofice"
+              },
+              {
+                "id":3,
+                "sem":2,
+                "startDate":"2019-02-25",
+                "endDate":"2019-03-04",
+                "main":"Relații trofice în ecosisteme",
+                "value":"Niveluri și piramide trofice"
+              },
+              {
+                "id":4,
+                "sem":2,
+                "startDate":"2019-03-04",
+                "endDate":"2019-03-11",
+                "main":"Relații trofice în ecosisteme",
+                "value":"Circuitul materiei și energiei în ecosistem - noțiuni generale"
+              },
+              {
+                "id":5,
+                "sem":2,
+                "startDate":"2019-03-11",
+                "endDate":"2019-03-18",
+                "main":"Relații trofice în ecosisteme",
+                "value":"Evaluare"
+              },
+              {
+                "id":6,
+                "sem":2,
+                "startDate":"2019-03-18",
+                "endDate":"2019-03-25",
+                "main":"Echilibre și dezechilibre în ecosisteme",
+                "value":"Echilibrul unui ecosistem"
+              },
+              {
+                "id":7,
+                "sem":2,
+                "startDate":"2019-03-25",
+                "endDate":"2019-04-01",
+                "main":"Echilibre și dezechilibre în ecosisteme",
+                "value":"Echilibre și dezechilibre ecologice: deteriorarea mediului, supraexploatarea"
+              },
+              {
+                "id":8,
+                "sem":2,
+                "startDate":"2019-04-01",
+                "endDate":"2019-04-08",
+                "main":"Echilibre și dezechilibre în ecosisteme",
+                "value":"Echilibre și dezechilibre ecologice: introducerea de noi specii în ecosisteme, antropizarea"
+              },
+              {
+                "id":9,
+                "sem":2,
+                "startDate":"2019-04-08",
+                "endDate":"2019-04-15",
+                "main":"Echilibre și dezechilibre în ecosisteme",
+                "value":"Protecția și conservarea mediului (dezvoltare durabilă, exploatarea rațională a resurselor naturale,colectarea selectivă a deșeurilor, parcuri și rezervații naturale)"
+              },
+              {
+                "id":10,
+                "sem":2,
+                "startDate":"2019-04-15",
+                "endDate":"2019-04-22",
+                "main":"Evoluționism",
+                "value":"Unitatea și diversitatea lumii vii"
+              },
+              {
+                "id":11,
+                "sem":2,
+                "startDate":"2019-05-06",
+                "endDate":"2019-05-13",
+                "main":"Evoluționism",
+                "value":"Unitatea și diversitatea lumii vii"
+              },
+              {
+                "id":12,
+                "sem":2,
+                "startDate":"2019-05-13",
+                "endDate":"2019-05-20",
+                "main":"Evoluționism",
+                "value":"Evoluția și dovezi ale evoluției (definiția evoluției,exemple de dovezi directe și indirecte)"
+              },
+              {
+                "id":13,
+                "sem":2,
+                "startDate":"2019-05-20",
+                "endDate":"2019-05-27",
+                "main":"Evoluționism",
+                "value":"Factori ai evoluției (ereditatea, variabilitatea, suprapopulația, lupta pentru existențǎ, selecția). Specia ca unitate a evoluției."
+              },
+              {
+                "id":14,
+                "sem":2,
+                "startDate":"2019-05-27",
+                "endDate":"2019-06-03",
+                "main":"Evoluționism",
+                "value":"Evaluare"
+              },
+              {
+                "id":15,
+                "sem":2,
+                "startDate":"2019-06-03",
+                "endDate":"2019-06-10",
+                "main":"Recapitulare semestrială",
+                "value":"Fișe de recapitulare, portofolii, proiecte de grup"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

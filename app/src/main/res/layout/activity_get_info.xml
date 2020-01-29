@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="com.cercetare.infoschool.GetInfoActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="@dimen/browser_actions_context_menu_min_padding"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:gravity="center"
+        android:layout_marginStart="@dimen/activity_horizontal_margin"
+        tools:context="com.cercetare.infoschool.GetInfoActivity">
+
+        <TextView
+            android:id="@+id/select_course"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/browser_actions_context_menu_min_padding"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/primaryDarkColor"
+            android:text="@string/selecteaz_s_pt_m_na_dorit"/>
+
+        <Button
+            android:id="@+id/current_date_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/browser_actions_context_menu_min_padding"
+            android:text="@string/s_pt_m_na_curent"/>
+
+        <TextView
+            android:id="@+id/select_sem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/primaryDarkColor"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/selecteaz_semestrul"/>
+        <Spinner
+            android:id="@+id/spinnerSems"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="@dimen/browser_actions_context_menu_min_padding"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/btn_dropdown"
+            android:spinnerMode="dropdown"/>
+
+        <TextView
+            android:id="@id/select_week"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="invisible"
+            android:textColor="@color/primaryDarkColor"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/selecteaz_s_pt_m_na"/>
+
+        <Spinner
+            android:id="@+id/spinnerWeeks"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="invisible"
+            android:layout_marginBottom="@dimen/browser_actions_context_menu_min_padding"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:background="@android:drawable/btn_dropdown"
+            android:spinnerMode="dropdown"/>
+
+        <TextView
+            android:id="@id/main_result_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="invisible"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/secondaryLightColorMain"
+            android:textAlignment="center"
+            android:text="@string/nuciun_resultat"/>
+        <TextView
+            android:id="@id/result_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="invisible"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/secondaryDarkColor"
+            android:textAlignment="center"
+            android:text="@string/nuciun_resultat"/>
+
+    </LinearLayout>
+
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/navigation"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="0dp"
+        android:layout_marginStart="0dp"
+        android:background="?android:attr/windowBackground"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:menu="@menu/navigation" />
+</android.support.constraint.ConstraintLayout>

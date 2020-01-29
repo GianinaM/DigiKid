@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.google.firebase.quickstart.auth.views.MedicatieAVRActivity">
+
+    <!--<TextView-->
+        <!--android:id="@+id/textView"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginBottom="20dp"-->
+        <!--android:layout_marginTop="190dp"-->
+        <!--android:textSize="20dp"-->
+        <!--android:text="Ridicarea Medicatiei" />-->
+
+    <Spinner
+            android:id="@+id/static_spinner"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="20dp"/>
+
+    <Spinner
+        android:id="@+id/static_spinner2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="60dp" />
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/fDataInceputLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="90dp">
+
+        <EditText
+            android:id="@+id/fDataInceput"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Data Inceperii Medicatiei"/>
+    </android.support.design.widget.TextInputLayout>
+
+    <Spinner
+        android:id="@+id/profilaxie_spinner"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="150dp"/>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="190dp"
+        android:textSize="20dp"
+        android:text="Ridicarea Medicatiei" />
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/fDataMedicatieLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="240dp">
+
+        <EditText
+            android:id="@+id/fDataMedicatie"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Data Medicatie"/>
+    </android.support.design.widget.TextInputLayout>
+
+    <Spinner
+        android:id="@+id/perioada_spinner"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="290dp"/>
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/greutateNouaLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="330dp">
+
+        <EditText
+            android:id="@+id/greutate_noua"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Greutate"/>
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/save_medicatieAVR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="16dp"
+        android:src="@drawable/ic_navigation_check_24"/>
+
+</RelativeLayout>

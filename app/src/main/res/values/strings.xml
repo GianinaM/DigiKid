@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">InfoSchool</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Clase">Clase</string>
+    <string name="title_activity_week">WeekActivity</string>
+    <string name="title_activity_get_info">GetInfoActivity</string>
+    <string name="selecteaza_clasa_care_te_intereseaza">Selectează clasa care te interesează</string>
+    <string name="clasa_v">Clasa V</string>
+    <string name="clasa_vi">Clasa VI</string>
+    <string name="clasa_vii">Clasa VII</string>
+    <string name="clasa_viii">Clasa VIII</string>
+    <string name="selecteaz_s_pt_m_na_dorit">Selectează săptămâna dorită</string>
+    <string name="s_pt_m_na_curent">Săptămâna curentă</string>
+    <string name="selecteaz_semestrul">Selectează semestrul</string>
+    <string name="selecteaz_s_pt_m_na">Selectează săptămâna</string>
+    <string name="nuciun_resultat">Nuciun resultat</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="google_sign_in">Google SignIn</string>
+</resources>

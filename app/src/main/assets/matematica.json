@@ -1,0 +1,1149 @@
+{
+  "classes":[
+    {
+      "name":"matematica",
+      "values":[
+        {
+          "id":5,
+          "value":{
+            "semester":[
+              {
+                "id":1,
+                "value":"All from 4 grade"
+              }
+            ],
+            "weeks":[
+              {
+                "id":1,
+                "sem":1,
+                "startDate":"2018-09-10",
+                "endDate":"2018-09-17",
+                "main":"Recapitulare",
+                "value":"-Exercitii recapitulative\n-Test initial\n-Analiza test initial"
+              },
+              {
+                "id":2,
+                "sem":1,
+                "startDate":"2018-09-17",
+                "endDate":"2018-09-24",
+                "main":"Numere naturale",
+                "value":"- Scrierea și citirea numerelor naturale\n-Reprezentarea pe axă a numerelor naturale. Compararea și ordonarea numerelor naturale. Aproximări. Estimări\n- Recapitulare\n- Evaluare\n-La dispozitia profesorului"
+              },
+              {
+                "id":3,
+                "sem":1,
+                "startDate":"2018-09-24",
+                "endDate":"2018-10-01",
+                "main":"Operații cu numere naturale",
+                "value":"- Adunarea și scăderea numerelor naturale. Proprietățile adunării\n-Înmulțirea numerelor naturale. Proprietățile înmulțirii. Factor comun\n-Aplicații\n"
+              },
+              {
+                "id":4,
+                "sem":1,
+                "startDate":"2018-10-01",
+                "endDate":"2018-10-08",
+                "main":"Operații cu numere naturale",
+                "value":"- Împărțirea cu rest zero a numerelor naturale\n-Împărțirea cu rest a numerelor naturale\n-Recapitulare\n- Evaluare\n"
+              },
+              {
+                "id":5,
+                "sem":1,
+                "startDate":"2018-10-08",
+                "endDate":"2018-10-15",
+                "main":"Puteri cu exponent număr natural",
+                "value":"-Puterea cu exponent natural a unui nr natural Aplicații\n- Reguli de calcul cu puteri\n- Compararea puterilor\n-Aplicații\n"
+              },
+              {
+                "id":6,
+                "sem":1,
+                "startDate":"2018-10-15",
+                "endDate":"2018-10-22",
+                "main":"Puteri cu exponent număr natural",
+                "value":"- Scrierea în baza 10. Scrierea în baza 2\n- Recapitulare\n-Evaluare"
+              },
+              {
+                "id":7,
+                "sem":1,
+                "startDate":"2018-10-22",
+                "endDate":"2018-10-29",
+                "main":"Ordinea efectuării operațiilor",
+                "value":"-Ordinea efectuării operațiilor\n-Utilizarea parantezelor rotunde, pătrate, acolade\n"
+              },
+              {
+                "id":8,
+                "sem":1,
+                "startDate":"2018-10-29",
+                "endDate":"2018-11-05",
+                "main":"Ordinea efectuării operațiilor",
+                "value":"-Recapitulare\n-Evaluare\n"
+              },
+              {
+                "id":9,
+                "sem":1,
+                "startDate":"2018-11-05",
+                "endDate":"2018-11-12",
+                "main":" Metode aritmetice de rezolvare a problemelor",
+                "value":"- Metoda reducerii la unitate\n-Metoda comparației\n-Aplicații\n-Metoda figurativă\n"
+              },
+              {
+                "id":10,
+                "sem":1,
+                "startDate":"2018-11-12",
+                "endDate":"2018-11-19",
+                "main":" Metode aritmetice de rezolvare a problemelor",
+                "value":"-Metoda mersului invers\n-Aplicații\n-Metoda falsei ipoteze\n-Recapitulare\n- Evaluare\n"
+              },
+              {
+                "id":11,
+                "sem":1,
+                "startDate":"2018-11-19",
+                "endDate":"2018-11-26",
+                "main":"Divizibilitatea numerelor naturale",
+                "value":"-Divizor. Multiplu. Divizori comuni, multipli comuni\n-Criteriul de divizibilitate cu 2. Criteriul de divizibilitate cu 5. Criteriul de divizibilitate cu 10n\n"
+              },
+              {
+                "id":12,
+                "sem":1,
+                "startDate":"2018-11-26",
+                "endDate":"2018-12-03",
+                "main":"Divizibilitatea numerelor naturale",
+                "value":"-Criteriul de divizibilitate cu 3. Criteriul de divizibilitate cu 9\n-Aplicații\n-Numere prime. Numere compuse\n-Recapitulare\n-Evaluare\n"
+              },
+              {
+                "id":13,
+                "sem":1,
+                "startDate":"2018-12-03",
+                "endDate":"2018-12-10",
+                "main":"Fracții ordinare",
+                "value":"- Fracții ordinare. Fracții subunitare, echiunitare, supraunitare. Procente. Fracții echivalente\n-Aplicații\n"
+              },
+              {
+                "id":14,
+                "sem":1,
+                "startDate":"2018-12-10",
+                "endDate":"2018-12-17",
+                "main":"Fracții ordinare",
+                "value":"-Compararea fracțiilor cu același numitor sau numărător. Reprezentarea pe axa numerelor a unei fracții ordinare"
+              },
+              {
+                "id":15,
+                "sem":1,
+                "startDate":"2018-12-17",
+                "endDate":"2018-12-24",
+                "main":"Lucrare scrisă semestrială",
+                "value":"- Rec – Metode aritmetice de rezolvare a problemelor\n-Recapitulare – Divizibilitate\n-Lucrare scrisă semestrială\n-Discutarea tezei"
+              },
+              {
+                "id":16,
+                "sem":1,
+                "startDate":"2019-01-14",
+                "endDate":"2019-01-21",
+                "main":"Fracții ordinare",
+                "value":"- Introducerea și scoaterea întregilor dintr-o fracție\n-Cel mai mare divizor comun a două numere naturale. Amplificarea și simplificarea. Fracții ireductibile\n"
+              },
+              {
+                "id":17,
+                "sem":1,
+                "startDate":"2019-01-21",
+                "endDate":"2019-01-28",
+                "main":"Fracții ordinare",
+                "value":"-Cel mai mic multiplu comun a două numere naturale. Aducerea fracțiilor la un numitor comun\n-Aplicații\n- Recapitulare\n-Evaluare\n"
+              },
+              {
+                "id":18,
+                "sem":1,
+                "startDate":"2019-01-28",
+                "endDate":"2019-02-03",
+                "main":"Recapitulare",
+                "value":"– Puteri\n- Metode aritmetice\n- Divizibilitate\n- Fracții"
+              },
+              {
+                "id":1,
+                "sem":2,
+                "startDate":"2019-02-11",
+                "endDate":"2019-02-18",
+                "main":"Operații cu fracții ordinare",
+                "value":"-Adunarea și scăderea fracțiilor ordinare\n-Înmulțirea fracțiilor ordinare. Puteri\n-Împărțirea fracțiilor ordinare\n- Aplicații\n"
+              },
+              {
+                "id":2,
+                "sem":2,
+                "startDate":"2019-02-18",
+                "endDate":"2019-02-25",
+                "main":"Operații cu fracții ordinare",
+                "value":"- Fracții/procente dintr-un număr natural sau dintr-o fracție ordinară\n -Aplicații – Operații cu fracții ordinare\n-Recapitulare\n"
+              },
+              {
+                "id":3,
+                "sem":2,
+                "startDate":"2019-02-25",
+                "endDate":"2019-03-04",
+                "main":"Fracții zecimale",
+                "value":"-Scrierea fracțiilor ordinare cu numitori puteri ale lui 10, sub formă de fracții zecimale. \n-Aplicații\n -Aproximări, compararări și ordonări pe axa nr - Recapitulare\n"
+              },
+              {
+                "id":4,
+                "sem":2,
+                "startDate":"2019-03-04",
+                "endDate":"2019-03-11",
+                "main":"Operații cu fracții zecimale cu un număr finit de zecimale nenule",
+                "value":"-Adunarea, scăderea fracțiilor zecimale \n- Înmulțirea fracțiilor zecimale\n-Aplicații\n"
+              },
+              {
+                "id":5,
+                "sem":2,
+                "startDate":"2019-03-11",
+                "endDate":"2019-03-18",
+                "main":"Operații cu fracții zecimale cu un număr finit de zecimale nenule",
+                "value":"-Împărțirea a două numere naturale cu rezultat fracție zecimală. Media aritmetică a două sau mai multor numere naturale\n-Aplicații\n"
+              },
+              {
+                "id":6,
+                "sem":2,
+                "startDate":"2019-03-18",
+                "endDate":"2019-03-25",
+                "main":"Operații cu fracții zecimale cu un număr finit de zecimale nenule",
+                "value":"-Transformarea unei fracții ordinare în fracție zecimală. Periodicitate\n-Împărțirea unei fracții zecimale cu un număr finit de zecimale nenule la un număr natural nenul\n-Aplicații\n"
+              },
+              {
+                "id":7,
+                "sem":2,
+                "startDate":"2019-03-25",
+                "endDate":"2019-04-01",
+                "main":"Operații cu fracții zecimale cu un număr finit de zecimale nenule",
+                "value":"-Împărțirea a două fracții zecimale \n- Transf unei fracții zec periodice în fracție ordinară\n- Aplicații\n -Evaluare"
+              },
+              {
+                "id":8,
+                "sem":2,
+                "startDate":"2019-04-01",
+                "endDate":"2019-04-08",
+                "main":"Alte probleme cu fracții zecimale",
+                "value":"-Număr rațional pozitiv. Ordinea efectuării op -Aplicații\n-Metode aritmetice pt rez probl cu fracții în care intervin și unități de măsură pentru lungime,arie,volum,capacitate,masă,timp și unitățimonetare\n"
+              },
+              {
+                "id":9,
+                "sem":2,
+                "startDate":"2019-04-08",
+                "endDate":"2019-04-15",
+                "main":"Alte probleme cu fracții zecimale",
+                "value":"- Probleme de organizare a datelor. Frecvență. Date statistice organizate în tabele, grafice cu bare și/sau cu linii. Media unui set de date statistice\n- Recapitulare"
+              },
+              {
+                "id":10,
+                "sem":2,
+                "startDate":"2019-04-15",
+                "endDate":"2019-04-22",
+                "main":"Elemente de geometrie",
+                "value":"- Punct, dreaptă, plan, semiplan, semidreaptă, segm.\n- Pozițiile relative ale unui punct față de o dreaptă. Puncte coliniare. Pozițiile relative a două drepte: drepte concurente, drepte paralele\n- Aplicații\n"
+              },
+              {
+                "id":11,
+                "sem":2,
+                "startDate":"2019-05-06",
+                "endDate":"2019-05-13",
+                "main":"Elemente de geometrie",
+                "value":"- Distanța dintre două puncte, lungimea unui segment. Segm congruente\n-Mijlocul unui segm. Sim unui punct față de un punct\n-Recapitulare\n"
+              },
+              {
+                "id":12,
+                "sem":2,
+                "startDate":"2019-05-13",
+                "endDate":"2019-05-20",
+                "main":"Unghiuri",
+                "value":"-Unghi: definiție, notații, elemente. Interiorul, exteriorul unui unghi\n-Măsura unui unghi, unghiuri congruente. Clasificări de unghiuri. Calcule cu măsuri de unghiuri (1)\n-Aplicații\n"
+              },
+              {
+                "id":13,
+                "sem":2,
+                "startDate":"2019-05-20",
+                "endDate":"2019-05-27",
+                "main":"Unghiuri",
+                "value":"-Măsura unui unghi, unghiuri congruente. Clasificări de unghiuri. Calcule cu măsuri de unghiuri (2)\n-Aplicații\n-Figuri congruente. Axa de simetrie\n-Recapitulare\n"
+              },
+              {
+                "id":14,
+                "sem":2,
+                "startDate":"2019-05-27",
+                "endDate":"2019-06-03",
+                "main":"Lucrare scrisă   semestrială",
+                "value":"-Recapitulare – Fracții\n-Recapitulare – Geometrie\n- Lucrare scrisă semestrială\n"
+              },
+              {
+                "id":15,
+                "sem":2,
+                "startDate":"2019-06-03",
+                "endDate":"2019-06-10",
+                "main":"Unități de măsură",
+                "value":"-Unități de măsură pentru lungime, transformări. Perimetre\n-Unități de măsură pentru arie, transformări. Aria pătratului și aria dreptunghiului\n- Aplicații\n-Unități de măsură pentru volum, transformări. Volumul cubului și  paralelipipedului dreptughic\n-Aplicații\n"
+              },
+              {
+                "id":16,
+                "sem":2,
+                "startDate":"2019-06-10",
+                "endDate":"2019-06-15",
+                "main":"Recapitulare finală",
+                "value":"- Divizibilitatea numerelor naturale\n-  Operații cu numere raționalepozitive\n- El de geometrie și unități de măsură\n-Evaluare finală"
+              }
+            ]
+          }
+        },
+        {
+          "id":6,
+          "value":{
+            "semester":[
+              {
+                "id":1,
+                "value":"All from 5 grade"
+              }
+            ],
+            "weeks":[
+              {
+                "id":1,
+                "sem":1,
+                "startDate":"2018-09-10",
+                "endDate":"2018-09-17",
+                "main":"Recapitulare",
+                "value":"⦁\tNumere naturale, operații cu numere naturale\n⦁\tFracţii ordinare, fracţii zecimale \n⦁\tElemente de geometrie şi unităţi de măsură\n⦁\tTest inițial"
+              },
+              {
+                "id":2,
+                "sem":1,
+                "startDate":"2018-09-17",
+                "endDate":"2018-09-24",
+                "main":"Mulţimi. Operații cu mulțimi",
+                "value":"⦁\tDescriere, notaţii, reprezentări; mulţimi\n numerice/ nenumerice; relaţia dintre un element\n şi o mulţime;\n⦁\tRelaţii între mulţimi  (incluziune, egalitate)"
+              },
+              {
+                "id":3,
+                "sem":1,
+                "startDate":"2018-09-24",
+                "endDate":"2018-10-01",
+                "main":"Mulţimi. Operații cu mulțimi",
+                "value":"⦁\tMulţimi finite, cardinalul unei mulţimi finite; mulţimi\n infinite, mulțimea numerelor naturale\n"
+              },
+              {
+                "id":4,
+                "sem":1,
+                "startDate":"2018-10-01",
+                "endDate":"2018-10-08",
+                "main":"\"Mulţimi. Operații cu mulțimi",
+                "value":"⦁\tOperaţii cu mulţimi: reuniune, intersecţie, diferenţă \n⦁\t Evaluare"
+              },
+              {
+                "id":5,
+                "sem":1,
+                "startDate":"2018-10-08",
+                "endDate":"2018-10-15",
+                "main":"Mulțimea numerelor naturale",
+                "value":"⦁\tDescompunerea numerelor naturale în produs de puteri de numere prime"
+              },
+              {
+                "id":6,
+                "sem":1,
+                "startDate":"2018-10-15",
+                "endDate":"2018-10-22",
+                "main":"Mulțimea numerelor naturale",
+                "value":"⦁\tDeterminarea celui mai mare divizor comun (c.m.m.d.c.). Numere prime între ele.\n⦁\tDeterminarea celui mai mic multiplu comun (c.m.m.m.c.)"
+              },
+              {
+                "id":7,
+                "sem":1,
+                "startDate":"2018-10-22",
+                "endDate":"2018-10-29",
+                "main":"Mulțimea numerelor naturale",
+                "value":"⦁\tProprietăţi ale divizibilității în ℕ\n"
+              },
+              {
+                "id":8,
+                "sem":1,
+                "startDate":"2018-10-29",
+                "endDate":"2018-11-05",
+                "main":"Mulțimea numerelor naturale",
+                "value":"⦁\tExerciții și probleme care se rezolvă cu ajutorul divizibilității\n⦁\tEvaluare"
+              },
+              {
+                "id":9,
+                "sem":1,
+                "startDate":"2018-11-05",
+                "endDate":"2018-11-12",
+                "main":"Rapoarte și proporții",
+                "value":"⦁\tRapoarte\n⦁\tProporții, proprietatea fundamentală a \nproporțiilor "
+              },
+              {
+                "id":10,
+                "sem":1,
+                "startDate":"2018-11-12",
+                "endDate":"2018-11-19",
+                "main":"Rapoarte și proporții",
+                "value":"⦁\tDeterminarea unui termen necunoscut dintr-o proporţie\n⦁\tProporţii derivate"
+              },
+              {
+                "id":11,
+                "sem":1,
+                "startDate":"2018-11-19",
+                "endDate":"2018-11-26",
+                "main":"Rapoarte și proporții",
+                "value":"⦁\tMărimi direct proporţionale\n⦁\tMărimi invers proporţionale"
+              },
+              {
+                "id":12,
+                "sem":1,
+                "startDate":"2018-11-26",
+                "endDate":"2018-12-03",
+                "main":"Lucrare scrisă semestrială",
+                "value":"⦁\tRecapitulare lucrare scrisă\n⦁\tLucrare scrisă semestrială"
+              },
+              {
+                "id":13,
+                "sem":1,
+                "startDate":"2018-12-03",
+                "endDate":"2018-12-10",
+                "main":"Rapoarte și proporții",
+                "value":"⦁\tRegula de trei simplă\n⦁\tExerciții și probleme care se rezolvă cu ajutorul divizibilității"
+              },
+              {
+                "id":14,
+                "sem":1,
+                "startDate":"2018-12-10",
+                "endDate":"2018-12-17",
+                "main":"Rapoarte și proporții",
+                "value":"⦁\tExerciții și probleme care se rezolvă cu ajutorul divizibilității\n⦁\tEvaluare"
+              },
+              {
+                "id":15,
+                "sem":1,
+                "startDate":"2018-12-17",
+                "endDate":"2018-12-24",
+                "main":"Elemente de organizare a datelor",
+                "value":"⦁\tReprezentarea datelor prin grafice în \ncontextul proporţionalităţii\n⦁\tReprezentarea datelor cu ajutorul unor\n softuri matematice"
+              },
+              {
+                "id":16,
+                "sem":1,
+                "startDate":"2019-01-14",
+                "endDate":"2019-01-21",
+                "main":"Elemente de organizare a datelor",
+                "value":"⦁\tProbabilităţi\n⦁\tEvaluare"
+              },
+              {
+                "id":17,
+                "sem":1,
+                "startDate":"2019-01-21",
+                "endDate":"2019-01-28",
+                "main":"Operaţii cu numere ȋntregi",
+                "value":"⦁\tMulţimea numerelor întregi; opusul unui\n număr întreg; reprezentarea pe axa \nnumerelor;\n⦁\tModulul unui număr întreg;compararea şi\nordonarea numerelor întregi"
+              },
+              {
+                "id":18,
+                "sem":1,
+                "startDate":"2019-01-28",
+                "endDate":"2019-02-03",
+                "main":"Operaţii cu numere ȋntregi",
+                "value":"⦁\tAdunarea numerelor întregi, proprietăţi\n⦁\tScăderea numerelor  întregi\n"
+              },
+              {
+                "id":1,
+                "sem":2,
+                "startDate":"2019-02-11",
+                "endDate":"2019-02-18",
+                "main":"Operaţii cu numere ȋntregi\n",
+                "value":"⦁\tÎnmulţirea numerelor întregi, proprietăţi . \n⦁\tÎmpărţirea numerelor întregi când\ndeîmpărţitul  este multiplu al\n împărţitorului"
+              },
+              {
+                "id":2,
+                "sem":2,
+                "startDate":"2019-02-18",
+                "endDate":"2019-02-25",
+                "main":"Operaţii cu numere ȋntregi\n",
+                "value":"⦁\tPuterea cu exponent număr natural a unui \nnumăr întreg nenul; reguli de calcul cu \nputeri⦁\tOrdinea efectuării operaţiilor şi folosirea parantezelor.⦁\tEvaluare"
+              },
+              {
+                "id":3,
+                "sem":2,
+                "startDate":"2019-02-25",
+                "endDate":"2019-03-04",
+                "main":"Ecuaţii şi inecuaţii ȋn Z",
+                "value":"⦁\tEcuaţii în Z"
+              },
+              {
+                "id":4,
+                "sem":2,
+                "startDate":"2019-03-04",
+                "endDate":"2019-03-11",
+                "main":"Ecuaţii şi inecuaţii ȋn Z",
+                "value":"⦁\tInecuații\n⦁\tProbleme care se rezolvă cu ajutorul ecuaţiilor/inecuaţiilor în contextul numerelor întregi"
+              },
+              {
+                "id":5,
+                "sem":2,
+                "startDate":"2019-03-11",
+                "endDate":"2019-03-18",
+                "main":"Ecuaţii şi inecuaţii ȋn Z",
+                "value":"⦁\tAplicații\n⦁\tEvaluare"
+              },
+              {
+                "id":6,
+                "sem":2,
+                "startDate":"2019-03-18",
+                "endDate":"2019-03-25",
+                "main":" Operații cu numere raționale",
+                "value":"⦁\tNumăr raţional; mulţimea numerelor\n raţionale; reprezentarea numerelor \nraţionale pe axa numerelor, opusul unui\n număr raţional\n⦁\tModulul; compararea şi ordonarea\n numerelor raţionale"
+              },
+              {
+                "id":7,
+                "sem":2,
+                "startDate":"2019-03-25",
+                "endDate":"2019-04-01",
+                "main":" Operații cu numere raționale",
+                "value":"⦁\tAdunarea numerelor raţionale; proprietăţi\n⦁\tScăderea numerelor raționale"
+              },
+              {
+                "id":8,
+                "sem":2,
+                "startDate":"2019-04-01",
+                "endDate":"2019-04-08",
+                "main":" Operații cu numere raționale",
+                "value":"⦁\tÎnmulţirea numerelor raţionale; proprietăţi;\n⦁\tÎmpărţirea numerelor raţionale\n⦁\tEvaluare"
+              },
+              {
+                "id":9,
+                "sem":2,
+                "startDate":"2019-04-08",
+                "endDate":"2019-04-15",
+                "main":"⦁\tPuterea cu exponent număr întreg a \nunui număr raţional nenul",
+                "value":" Operații cu numere raționale"
+              },
+              {
+                "id":10,
+                "sem":2,
+                "startDate":"2019-04-15",
+                "endDate":"2019-04-22",
+                "main":" Operații cu numere raționale",
+                "value":"⦁\tReguli de calcul cu  puteri\n"
+              },
+              {
+                "id":11,
+                "sem":2,
+                "startDate":"2019-05-06",
+                "endDate":"2019-05-13",
+                "main":" Operații cu numere raționale",
+                "value":"⦁\tOrdinea efectuării operaţiilor şi folosirea parantezelor"
+              },
+              {
+                "id":12,
+                "sem":2,
+                "startDate":"2019-05-13",
+                "endDate":"2019-05-20",
+                "main":"Lucrare scrisă semestrială",
+                "value":"⦁\tRecapitulare lucrare scrisă\n⦁\tLucrare scrisă semestrială"
+              },
+              {
+                "id":13,
+                "sem":2,
+                "startDate":"2019-05-20",
+                "endDate":"2019-05-27",
+                "main":" Operații cu numere raționale",
+                "value":"⦁\tExerciții ⦁\tEvaluare "
+              },
+              {
+                "id":14,
+                "sem":2,
+                "startDate":"2019-05-27",
+                "endDate":"2019-06-03",
+                "main":"Ecuaţii şi inecuaţii ȋn Q",
+                "value":"⦁\tEcuaţii de tipul:  \n  \n⦁\tProbleme care se rezolvă cu ajutorul ecuațiilor"
+              },
+              {
+                "id":15,
+                "sem":2,
+                "startDate":"2019-06-03",
+                "endDate":"2019-06-10",
+                "main":"Ecuaţii şi inecuaţii ȋn Q",
+                "value":"⦁\tProbleme \n⦁\tEvaluare"
+              },
+              {
+                "id":16,
+                "sem":2,
+                "startDate":"2019-06-10",
+                "endDate":"2019-06-15",
+                "main":"Recapitulare finală",
+                "value":"⦁\tMulțimea numerelor întregi\n⦁\tMulțimea numerelor naturale"
+              }
+            ]
+          }
+        },
+        {
+          "id":7,
+          "value":{
+            "semester":[
+              {
+                "id":1,
+                "value":"All from 6 grade"
+              }
+            ],
+            "weeks":[
+              {
+                "id":1,
+                "sem":1,
+                "startDate":"2018-09-10",
+                "endDate":"2018-09-17",
+                "main":"Recapitulare",
+                "value":"Exerciţii şi probleme recapitulative\nTest de evaluare\n"
+              },
+              {
+                "id":2,
+                "sem":1,
+                "startDate":"2018-09-17",
+                "endDate":"2018-09-24",
+                "main":"Mulţimea numerelor raţionale",
+                "value":"Mulţimea numerelor raţionale (Q). Reprezentarea pe axă a numerelor raţionale, opusul unui număr raţional. Incluziunile NZQ. Exerciţii"
+              },
+              {
+                "id":3,
+                "sem":1,
+                "startDate":"2018-09-24",
+                "endDate":"2018-10-01",
+                "main":"Mulţimea numerelor raţionale",
+                "value":"Valoarea absolută a unui număr raţional (modul). Ordonarea numerelor raţionale\nExerciţii\n"
+              },
+              {
+                "id":4,
+                "sem":1,
+                "startDate":"2018-10-01",
+                "endDate":"2018-10-08",
+                "main":"Mulţimea numerelor raţionale",
+                "value":"Adunarea şi scăderea\nExerciţii\n"
+              },
+              {
+                "id":5,
+                "sem":1,
+                "startDate":"2018-10-08",
+                "endDate":"2018-10-15",
+                "main":"Mulţimea numerelor raţionale",
+                "value":"Înmulţirea şi împărţirea\nPuterea unui număr raţional cu exponent număr întreg\n"
+              },
+              {
+                "id":6,
+                "sem":1,
+                "startDate":"2018-10-15",
+                "endDate":"2018-10-22",
+                "main":"Mulţimea numerelor raţionale",
+                "value":"Operaţii cu puteri.\nExerciţii.\n"
+              },
+              {
+                "id":7,
+                "sem":1,
+                "startDate":"2018-10-22",
+                "endDate":"2018-10-29",
+                "main":"Mulţimea numerelor raţionale",
+                "value":"Ordinea efectuării operaţiilor şi folosirea parantezelor\nEcuaţia de forma ax+b=0, cu aQ*, bQ"
+              },
+              {
+                "id":8,
+                "sem":1,
+                "startDate":"2018-10-29",
+                "endDate":"2018-11-05",
+                "main":"Mulţimea numerelor raţionale",
+                "value":"Probleme care se rezolvă cu ajutorul ecuaţiilor"
+              },
+              {
+                "id":9,
+                "sem":1,
+                "startDate":"2018-11-05",
+                "endDate":"2018-11-12",
+                "main":"Numere reale",
+                "value":"Rădăcina pătrată a unui număr natural pătrat perfect\nExerciţii\n"
+              },
+              {
+                "id":10,
+                "sem":1,
+                "startDate":"2018-11-12",
+                "endDate":"2018-11-19",
+                "main":"Numere reale",
+                "value":"Algoritmul de extragere a rădăcinii pătrate dintr-un număr natural; aproximări\nExerciţii\n"
+              },
+              {
+                "id":11,
+                "sem":1,
+                "startDate":"2018-11-19",
+                "endDate":"2018-11-26",
+                "main":"Numere reale",
+                "value":"Exemple de numere iraţionale\nMulţimea numerelor reale, R ; modulul unui număr real: definiţie, proprietăţi; compararea şi ordonarea numerelor reale; NZQR\n"
+              },
+              {
+                "id":12,
+                "sem":1,
+                "startDate":"2018-11-26",
+                "endDate":"2018-12-03",
+                "main":"Numere reale",
+                "value":"Reprezentarea numerelor reale pe axa numerelor prin aproximări\nProdusul şi câtul radicalilor\n"
+              },
+              {
+                "id":13,
+                "sem":1,
+                "startDate":"2018-12-03",
+                "endDate":"2018-12-10",
+                "main":"Numere reale",
+                "value":"Scoaterea şi introducerea factorilor sub radical\nAdunarea şi scăderea numerelor reale\nÎnmulţirea şi împărţirea numerelor reale\n"
+              },
+              {
+                "id":14,
+                "sem":1,
+                "startDate":"2018-12-10",
+                "endDate":"2018-12-17",
+                "main":"Lucrare scrisă",
+                "value":"Recapitulare pentru teză.\nTeza pe semestrul I.\n"
+              },
+              {
+                "id":15,
+                "sem":1,
+                "startDate":"2018-12-17",
+                "endDate":"2018-12-24",
+                "main":"Numere reale",
+                "value":"Puteri cu exponent număr întreg în R\n"
+              },
+              {
+                "id":16,
+                "sem":1,
+                "startDate":"2019-01-14",
+                "endDate":"2019-01-21",
+                "main":"Numere reale",
+                "value":"Ordinea efectuării operaţiilor\n"
+              },
+              {
+                "id":17,
+                "sem":1,
+                "startDate":"2019-01-21",
+                "endDate":"2019-01-28",
+                "main":"Numere reale",
+                "value":"Raţionalizarea numitorului de forma a radical(b)"
+              },
+              {
+                "id":18,
+                "sem":1,
+                "startDate":"2019-01-28",
+                "endDate":"2019-02-03",
+                "main":"Numere reale",
+                "value":"Media geometrică a două numere reale pozitive\nExerciții\n"
+              },
+              {
+                "id":1,
+                "sem":2,
+                "startDate":"2019-02-11",
+                "endDate":"2019-02-18",
+                "main":"Calcul algebric",
+                "value":"Calcule cu numere reale reprezentate prin litere: adunare/scădere, înmulţire, împărţire, ridicare la putere, reducerea termenilor asemenea\nExerciţii \n"
+              },
+              {
+                "id":2,
+                "sem":2,
+                "startDate":"2019-02-18",
+                "endDate":"2019-02-25",
+                "main":"Calcul algebric",
+                "value":"Puteri; reguli de calcul cu puteri.\nPuteri cu exponent întreg.\n"
+              },
+              {
+                "id":3,
+                "sem":2,
+                "startDate":"2019-02-25",
+                "endDate":"2019-03-04",
+                "main":"Calcul algebric",
+                "value":"Formule de calcul prescurtat (a +/- b)^2 = a^2 +/- 2ab + b^2; (a+b)(a-b) = a^2 - b^2, unde a, b aparțin R; unde \nExerciţii\n"
+              },
+              {
+                "id":4,
+                "sem":2,
+                "startDate":"2019-03-04",
+                "endDate":"2019-03-11",
+                "main":"Calcul algebric",
+                "value":"Descompuneri în factori utilizând reguli decalcul în R\nAplicaţii\n"
+              },
+              {
+                "id":5,
+                "sem":2,
+                "startDate":"2019-03-11",
+                "endDate":"2019-03-18",
+                "main":"Calcul algebric",
+                "value":"Ecuaţia de forma x^2=a, unde \nTest de evaluare\n"
+              },
+              {
+                "id":6,
+                "sem":2,
+                "startDate":"2019-03-18",
+                "endDate":"2019-03-25",
+                "main":"Ecuaţii şi inecuaţii",
+                "value":"Proprietăţi ale relaţiei de egalitate în mulţimea numerelor reale\nEcuaţii de forma ax+b=0, a,b aparțin R; mulţimea soluţiilor unei ecuaţii; ecuaţii echivalente"
+              },
+              {
+                "id":7,
+                "sem":2,
+                "startDate":"2019-03-25",
+                "endDate":"2019-04-01",
+                "main":"Ecuaţii şi inecuaţii",
+                "value":"Ecuaţii reductibile la forma ax+b=0, a,b aparțin R.\nExerciţii\n"
+              },
+              {
+                "id":8,
+                "sem":2,
+                "startDate":"2019-04-01",
+                "endDate":"2019-04-08",
+                "main":"Ecuaţii şi inecuaţii",
+                "value":"Proprietăţi ale relaţiei de inegalitate „ ≤ ” pe mulţimea numerelor reale"
+              },
+              {
+                "id":9,
+                "sem":2,
+                "startDate":"2019-04-08",
+                "endDate":"2019-04-15",
+                "main":"Ecuaţii şi inecuaţii",
+                "value":"Inecuaţii de forma ax+b>0, (<, ≤, ≥), a,b aparțin R, cu x în Z\nExerciţii\n"
+              },
+              {
+                "id":10,
+                "sem":2,
+                "startDate":"2019-04-15",
+                "endDate":"2019-04-22",
+                "main":"Ecuaţii şi inecuaţii",
+                "value":"Probleme care se rezolvă cu ajutorul ecuaţiilor şi inecuaţiilor"
+              },
+              {
+                "id":11,
+                "sem":2,
+                "startDate":"2019-05-06",
+                "endDate":"2019-05-13",
+                "main":"Organizarea datelor",
+                "value":"Produsul cartezian a două mulţimi nevide. Reprezentarea într-un sistem de axe perpendiculare (ortogonale) a unor perechi de numere întregi\nReprezentarea punctelor în plan cu ajutorul sistemului de axe ortogonale; distanţa dintre două puncte din plan\n"
+              },
+              {
+                "id":12,
+                "sem":2,
+                "startDate":"2019-05-13",
+                "endDate":"2019-05-20",
+                "main":"Lucrare scrisă",
+                "value":"Recapitulare pentru lucrarea scrisă semestrială.\nLucrare scrisă semestrială.\n"
+              },
+              {
+                "id":13,
+                "sem":2,
+                "startDate":"2019-05-20",
+                "endDate":"2019-05-27",
+                "main":"Organizarea datelor",
+                "value":"Probleme (reprezentări în reper cartezian).\nReprezentarea şi interpretarea unor dependenţe funcţionale prin tabele, diagrame şi grafice"
+              },
+              {
+                "id":14,
+                "sem":2,
+                "startDate":"2019-05-27",
+                "endDate":"2019-06-03",
+                "main":"Organizarea datelor",
+                "value":"Probabilitatea realizării unor evenimente\nAplicaţii\n"
+              },
+              {
+                "id":15,
+                "sem":2,
+                "startDate":"2019-06-03",
+                "endDate":"2019-06-10",
+                "main":"Recapitulare finală",
+                "value":"Numere raţionale.\nNumere reale.\n"
+              },
+              {
+                "id":16,
+                "sem":2,
+                "startDate":"2019-06-10",
+                "endDate":"2019-06-15",
+                "main":"Recapitulare finală",
+                "value":"Calcul algebric. \nEcuaţii şi inecuaţii\n"
+              }
+            ]
+          }
+        },
+        {
+          "id":8,
+          "value":{
+            "semester":[
+              {
+                "id":1,
+                "value":"All from 7 grade"
+              }
+            ],
+            "weeks":[
+              {
+                "id":1,
+                "sem":1,
+                "startDate":"2018-09-10",
+                "endDate":"2018-09-17",
+                "main":"Recapitulare",
+                "value":"Exerciţii şi probleme recapitulative\nTest de evaluare\n"
+              },
+              {
+                "id":2,
+                "sem":1,
+                "startDate":"2018-09-17",
+                "endDate":"2018-09-24",
+                "main":"Numere reale",
+                "value":"Mulţimi de numere. Forme de scriere a unui număr. N < Z < Q < R\nExerciţii\n"
+              },
+              {
+                "id":3,
+                "sem":1,
+                "startDate":"2018-09-24",
+                "endDate":"2018-10-01",
+                "main":"Numere reale",
+                "value":"Reprezentarea pe axă. Ordonarea numerelor reale. Valoarea absolută. Aproximarea numerelor reale.\nExerciţii.\n"
+              },
+              {
+                "id":4,
+                "sem":1,
+                "startDate":"2018-10-01",
+                "endDate":"2018-10-08",
+                "main":"Numere reale",
+                "value":"Intervale în R. Definiţie. Reprezentare pe axă.\n Operaţii cu intervale.\n"
+              },
+              {
+                "id":5,
+                "sem":1,
+                "startDate":"2018-10-08",
+                "endDate":"2018-10-15",
+                "main":"Numere reale",
+                "value":"Operaţii cu numere reale: adunarea şi scăderea.\nÎnmulţirea numerelor reale. Rapoarte de numere reale\n"
+              },
+              {
+                "id":6,
+                "sem":1,
+                "startDate":"2018-10-15",
+                "endDate":"2018-10-22",
+                "main":"Numere reale",
+                "value":"Puterea cu exponent întreg a unui număr real.\nOrdinea efectuării operaţiilor .\n"
+              },
+              {
+                "id":7,
+                "sem":1,
+                "startDate":"2018-10-22",
+                "endDate":"2018-10-29",
+                "main":"Numere reale",
+                "value":"Raţionalizarea numitorului de forma (a radical b) sau (a +/- radincal b), a,b aparținN*.\nEvaluare sumativă.\n"
+              },
+              {
+                "id":8,
+                "sem":1,
+                "startDate":"2018-10-29",
+                "endDate":"2018-11-05",
+                "main":"Calcule cu numere reale reprezentate prin litere",
+                "value":"Calcule cu numere reale reprezentate prin litere: adunări şi scăderi.\nCalcule cu numere reale reprezentate prin litere: înmulţiri, împărţiri, ridicări la putere.\n"
+              },
+              {
+                "id":9,
+                "sem":1,
+                "startDate":"2018-11-05",
+                "endDate":"2018-11-12",
+                "main":"Calcule cu numere reale reprezentate prin litere",
+                "value":"Exerciţii\nOrdinea efectuării operaţiilor\n"
+              },
+              {
+                "id":10,
+                "sem":1,
+                "startDate":"2018-11-12",
+                "endDate":"2018-11-19",
+                "main":"Calcule cu numere reale reprezentate prin litere",
+                "value":"Formule de  calcul prescurtat:\n(a±b)2=a2±2ab+b2; (a+b)(a-b)=a2-b2; (a+b+c)2=a2+b2+c2+2ab+2bc+2ac."
+              },
+              {
+                "id":11,
+                "sem":1,
+                "startDate":"2018-11-19",
+                "endDate":"2018-11-26",
+                "main":"Calcule cu numere reale reprezentate prin litere",
+                "value":"Descompuneri în factori (factor comun, grupare de termeni, formule de calcul)."
+              },
+              {
+                "id":12,
+                "sem":1,
+                "startDate":"2018-11-26",
+                "endDate":"2018-12-03",
+                "main":"Rapoarte cu numere reale reprezentate prin litere",
+                "value":"Amplificarea şi simplificarea rapoartelor de numere reale reprezentate prin litere. Aducerea rapoartelor la acelaşi numitor."
+              },
+              {
+                "id":13,
+                "sem":1,
+                "startDate":"2018-12-03",
+                "endDate":"2018-12-10",
+                "main":"Rapoarte cu numere reale reprezentate prin litere",
+                "value":"Adunarea şi scăderea rapoartelor de numere reale reprezentate prin litere.\nExerciţii\n"
+              },
+              {
+                "id":14,
+                "sem":1,
+                "startDate":"2018-12-10",
+                "endDate":"2018-12-17",
+                "main":"Lucrare scrisă semestrială",
+                "value":"Pregătirea lucrării scrise.\nLucrare scrisă semestrială.\n"
+              },
+              {
+                "id":15,
+                "sem":1,
+                "startDate":"2018-12-17",
+                "endDate":"2018-12-24",
+                "main":"Rapoarte cu numere reale reprezentate prin litere",
+                "value":"Adunarea şi scăderea rapoartelor de numere reale reprezentate prin litere."
+              },
+              {
+                "id":16,
+                "sem":1,
+                "startDate":"2019-01-14",
+                "endDate":"2019-01-21",
+                "main":"Rapoarte cu numere reale reprezentate prin litere",
+                "value":"Înmulţirea, împărţirea şi ridicarea la putere a rapoartelor de numere reale reprezentate prin litere."
+              },
+              {
+                "id":17,
+                "sem":1,
+                "startDate":"2019-01-21",
+                "endDate":"2019-01-28",
+                "main":"Funcţii",
+                "value":"Noţiunea de funcţie. Funcţii definite pe mulţimi finite, exprimate cu ajutorul unor diagrame, tabele, formule"
+              },
+              {
+                "id":18,
+                "sem":1,
+                "startDate":"2019-01-28",
+                "endDate":"2019-02-03",
+                "main":"Funcţii",
+                "value":"Graficul unei funcţii, reprezentarea geometrică a graficului."
+              },
+              {
+                "id":1,
+                "sem":2,
+                "startDate":"2019-02-11",
+                "endDate":"2019-02-18",
+                "main":"Funcţii",
+                "value":"Funcţii de tipul f: A →R, f(x) = ax+b (a,b R), unde A este  o mulţime finită; reprezentare grafică."
+              },
+              {
+                "id":2,
+                "sem":2,
+                "startDate":"2019-02-18",
+                "endDate":"2019-02-25",
+                "main":"Funcţii",
+                "value":"Funcţii de tipul f: A →R, f(x) = ax+b (a,b aparțin R), unde A este  o mulţime finită; reprezentare grafică.\nFuncţii de tipul f:R→R, f(x) =ax+b (a,b aparțin R); reprezentarea geometrică a graficului "
+              },
+              {
+                "id":3,
+                "sem":2,
+                "startDate":"2019-02-25",
+                "endDate":"2019-03-04",
+                "main":"Funcţii",
+                "value":"Exerciţii şi probleme.\nEvaluare sumativă."
+              },
+              {
+                "id":4,
+                "sem":2,
+                "startDate":"2019-03-04",
+                "endDate":"2019-03-11",
+                "main":"Ecuaţii şi sisteme de ecuaţii",
+                "value":"Ecuaţii de forma ax + b = 0,unde a, b, c sunt numere reale."
+              },
+              {
+                "id":5,
+                "sem":2,
+                "startDate":"2019-03-11",
+                "endDate":"2019-03-18",
+                "main":"Ecuaţii şi sisteme de ecuaţii",
+                "value":"Ecuaţii de forma ax+by+c=0,unde a, b, c sunt numere reale. Exerciţii."
+              },
+              {
+                "id":6,
+                "sem":2,
+                "startDate":"2019-03-18",
+                "endDate":"2019-03-25",
+                "main":"Ecuaţii şi sisteme de ecuaţii",
+                "value":"Sisteme de două ecuaţii de gradul I cu două necunoscute."
+              },
+              {
+                "id":7,
+                "sem":2,
+                "startDate":"2019-03-25",
+                "endDate":"2019-04-01",
+                "main":"Ecuaţii şi sisteme de ecuaţii",
+                "value":"Rezolvarea prin metoda substituţiei şi prin metoda reducerii; interpretare geometrică."
+              },
+              {
+                "id":8,
+                "sem":2,
+                "startDate":"2019-04-01",
+                "endDate":"2019-04-08",
+                "main":"Ecuaţii şi sisteme de ecuaţii",
+                "value":"Rezolvarea problemelor cu ajutorul ecuaţiilor şi a sistemelor de ecuaţii"
+              },
+              {
+                "id":9,
+                "sem":2,
+                "startDate":"2019-04-08",
+                "endDate":"2019-04-15",
+                "main":"Ecuaţii şi sisteme de ecuaţii",
+                "value":"Evaluare sumativă."
+              },
+              {
+                "id":10,
+                "sem":2,
+                "startDate":"2019-04-15",
+                "endDate":"2019-04-22",
+                "main":"Ecuaţii de gradul al II-lea",
+                "value":"Rezolvarea în R a ecuaţiei de forma  ax2 + bx + c = 0, cu a, b, c aparțin R,   a ≠ 0 , formele incomplete, prin descompunere în factori sau în sumă de pătrate. Exerciţii."
+              },
+              {
+                "id":11,
+                "sem":2,
+                "startDate":"2019-05-06",
+                "endDate":"2019-05-13",
+                "main":"Ecuaţii de gradul al II-lea",
+                "value":"Rezolvarea ecuaţiei de gradul al II-lea , forma completă. Formula de rezolvare. Exerciţii."
+              },
+              {
+                "id":12,
+                "sem":2,
+                "startDate":"2019-05-13",
+                "endDate":"2019-05-20",
+                "main":"Lucrare scrisă",
+                "value":"Pregătirea lucrării scrise\nLucrarea scrisă semestrială.\n"
+              },
+              {
+                "id":13,
+                "sem":2,
+                "startDate":"2019-05-20",
+                "endDate":"2019-05-27",
+                "main":"Inecuaţii de forma ax+b >0, (≥, <, ≤)",
+                "value":"Inecuaţii de forma ax+b >0, (≥, <, ≤)unde a, b sunt numere reale."
+              },
+              {
+                "id":14,
+                "sem":2,
+                "startDate":"2019-05-27",
+                "endDate":"2019-06-03",
+                "main":"Inecuaţii de forma ax+b >0, (≥, <, ≤)",
+                "value":"Evaluare"
+              },
+              {
+                "id":15,
+                "sem":2,
+                "startDate":"2019-06-03",
+                "endDate":"2019-06-10",
+                "main":"Recapitulare finală",
+                "value":"Teme de sinteză."
+              },
+              {
+                "id":16,
+                "sem":2,
+                "startDate":"2019-06-10",
+                "endDate":"2019-06-15",
+                "main":"Recapitulare finală",
+                "value":"Teme de sinteză."
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
