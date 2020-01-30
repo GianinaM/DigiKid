@@ -13,7 +13,10 @@
     <!-- TODO(developer): REPLACE -->
     <string name="twitter_consumer_key">REPLACE_ME</string>
     <string name="twitter_consumer_secret">REPLACE_ME</string>
-    <item name="select_week" type="id">select_week</item>
-    <item name="result_search" type="id">result_search</item>
-    <item name="main_result_search" type="id">main_result_search</item>
+<!--    <item name="select_week" type="id">select_week</item>-->
+<!--    <item name="result_search" type="id">result_search</item>-->
+<!--    <item name="main_result_search" type="id">main_result_search</item>-->
+    <item name="select_week" type="id"/>
+    <item name="result_search" type="id"/>
+    <item name="main_result_search" type="id"/>
 </resources>

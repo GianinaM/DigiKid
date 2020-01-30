@@ -10,6 +10,12 @@
 
     <color name="colorPrimary">#43C5A5</color>
 
+    <color name="primarySpinner">#84BF8F</color>
+    <color name="secondarySpinner">#5BA96B</color>
+
+    <color name="mainSubjectColor">#1C352D</color>
+    <color name="subjectColor">#295526</color>
+
     <color name="primaryColor">#43a047</color>
     <color name="primaryLightColor">#76d275</color>
     <color name="primaryDarkColor">#00701a</color>
