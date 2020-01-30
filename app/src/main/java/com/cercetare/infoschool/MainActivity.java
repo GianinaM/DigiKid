@@ -176,13 +176,16 @@ public class MainActivity extends AppCompatActivity {
                         databaseReference.child("startDate").setValue(getTimestamp(week.getStartDate()));
                         databaseReference.child("endDate").setValue(getTimestamp(week.getEndDate()));
                     }
-//                    Log.println(Log.DEBUG, "readAndWrite", classObj.getJSONObject("value").toString());
                 }
             }
         } catch (JSONException e) {
             e.printStackTrace();
         }
     }
+
+
+//                    Log.println(Log.DEBUG, "readAndWrite", classObj.getJSONObject("value").toString());
+
 
     public String getTimestamp(String perfectDate){
 
